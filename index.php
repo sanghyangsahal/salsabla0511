@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>LandingJs demo</title>
+    <title>Salsabila</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="data/favicon.ico"> 
+    <link rel="shortcut icon" href="data/logo.ico"> 
     <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="data/style.css" />
 
